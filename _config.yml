@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+# Sidebar settings
+sidebar: true  #添加侧边栏
+sidebar-about-description: "Asistant Researcher - Predictability of Climate, Seasonal Prediction"
+sidebar-avatar: https://github.com/WenguangWei/WenguangWei.github.io/blob/master/DSC_4689_clip.jpg     #你的大头贴，请使用绝对地址.
