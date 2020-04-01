@@ -1,37 +1,31 @@
-## Wenguang Wei
+# Wenguang Wei
 
-You can use the [editor on GitHub](https://github.com/WenguangWei/WenguangWei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Post-doc, Institute of Atmospheric Physics, Chinese Academy of Sciences,
+Assistant Researcher, Key Laboratory of Reginal Climate-Environment for Temperate East Asia (RCE-TEA), Chinese Academy of Sciences.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## News
 
-### Markdown
+EGU2020: Sharing Geosciences Online
+Session: NP2.3
+Theme: Extremes in Geophysical Sciences: Dynamics, Thermodynamics and Impacts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Biography
 
-- Bulleted
-- List
+Wenguang Wei is currently a post doctoral researcher at Institute of Atmospheric Physics, Chinese Academy of Sciences. He received his Bachelor of Engineering and Master of Engineering at School of Hydropower and Information Engineering, Huazhong University of Science and Technology in 2009 and 2012, respectively. After that, he worked as a software engineer in a communication company for almost two years but finally found that he was more interested in science and started to do a Phd under the supervision of Professor Zhongwei Yan at the Institute of Atmospheric Physics in 2014. He received his Ph.D. in 2018 and continued his career at the same institute. His main research focuses on predictability and seasonal prediction of climate, with a paticular interests in extreme precipitation events.
 
-1. Numbered
-2. List
+## Publications
 
-**Bold** and _Italic_ and `Code` text
+(1) Wenguang Wei#, Zhongwei Yan*, P. D. Jones, A decision-tree approach to seasonal prediction of extreme precipitation in eastern China [J]. International Journal of Climatology, 2019, 1–18.
+(2) Wenguang Wei#, Zhongwei Yan*, P. D. Jones, Potential predictability of seasonal extreme precipitation accumulation in China [J]. Journal of Hydrometeorology, 2017, 18(4): 1071-1080.
+(3) Haifeng Su#, Zhe Xiong*, Xiaodong Yan, Xingang Dai, Wenguang Wei, Comparison of monthly rainfall generated from dynamical and statistical downscaling methods: a case study of the Heihe River Basin in China [J]. Theoretical and Applied Climatology, 2017, 129(1-2): 437-444.
+(4) Shengmei Yang#, Qiuwen Zhang*, Yongzhi Zhang, Wenguang Wei, Tingting Shi, A digital lightning prototype system: DLPS/HUST. International Journal of Digital Earth, 2013, 6(sup2): 155-171.
+(5) Shengmei Yang#, Qiuwen Zhang*, Yongzhi Zhang, Wenguang Wei, Research on the Lightning Information Management System Based on GIS. JSW, 2012, 7(8): 1897-1904.
 
-[Link](url) and ![Image](src)
-```
+## Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Office: 511, 40th Building Hua Yan li, Institute of Atmospheric Physics,Chinese Academy of Sciences, Chao Yang District, P. O. Box 9804, Beijing, 100029, P. R. China
+Email: weiwg(at)tea(dot)ac(dot)cn
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WenguangWei/WenguangWei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Updated on 1st April 2020
