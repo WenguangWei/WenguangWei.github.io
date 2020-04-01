@@ -15,7 +15,7 @@ Theme: Extremes in Geophysical Sciences: Dynamics, Thermodynamics and Impacts
 
 ## Biography
 
-Wenguang Wei is currently a post doctoral researcher at Institute of Atmospheric Physics, Chinese Academy of Sciences. He received his Bachelor of Engineering and Master of Engineering at School of Hydropower and Information Engineering, Huazhong University of Science and Technology in 2009 and 2012, respectively. After that, he worked as a software engineer in a communication company for almost two years but finally found that he was more interested in science and started to do a Phd under the supervision of Professor Zhongwei Yan at the Institute of Atmospheric Physics in 2014. He received his Ph.D. in 2018 and continued his career at the same institute. His main research focuses on predictability and seasonal prediction of climate, with a paticular interests in extreme precipitation events.
+Wenguang Wei is currently a post doctoral researcher at Institute of Atmospheric Physics, Chinese Academy of Sciences. He received his Bachelor of Engineering and Master of Engineering at School of Hydropower and Information Engineering, Huazhong University of Science and Technology in 2009 and 2012, respectively. After that, he worked as a software engineer in a communication company for almost two years but finally found that he is more interested in science and started to do a Phd under the supervision of Professor Zhongwei Yan at Institute of Atmospheric Physics in 2014. He received his Ph.D. in 2018 and continued his career at the same institute. His main research focuses on predictability and seasonal prediction of climate, with paticular interests in extreme precipitation events.
 
 ## Publications
 
