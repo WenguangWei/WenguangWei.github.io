@@ -5,7 +5,7 @@ Assistant Researcher, Key Laboratory of Reginal Climate-Environment for Temperat
 
 ## News
 
-EGU2020: Sharing Geosciences Online
+EGU2020: Sharing Geosciences Online 4-8 May 2020
 
 Session: NP2.3
 
