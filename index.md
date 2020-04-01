@@ -1,4 +1,4 @@
-# Wenguang Wei
+# Wenguang Wei (魏文广)
 
 Post-doc, Institute of Atmospheric Physics, Chinese Academy of Sciences,
 Assistant Researcher, Key Laboratory of Reginal Climate-Environment for Temperate East Asia (RCE-TEA), Chinese Academy of Sciences.
