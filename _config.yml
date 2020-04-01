@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Wenguang Wei
 description: "Asistant Researcher - Predictability of Climate, Seasonal Prediction"
-header-img:: https://github.com/WenguangWei/WenguangWei.github.io/blob/master/DSC_4689_clip.jpg     #你的大头贴，请使用绝对地址.
+header-img:: /DSC_4689_clip.jpg     #你的大头贴，请使用绝对地址.
