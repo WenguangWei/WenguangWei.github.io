@@ -6,7 +6,9 @@ Assistant Researcher, Key Laboratory of Reginal Climate-Environment for Temperat
 ## News
 
 EGU2020: Sharing Geosciences Online
+
 Session: NP2.3
+
 Theme: Extremes in Geophysical Sciences: Dynamics, Thermodynamics and Impacts
 
 
@@ -18,14 +20,19 @@ Wenguang Wei is currently a post doctoral researcher at Institute of Atmospheric
 ## Publications
 
 (1) Wenguang Wei#, Zhongwei Yan*, P. D. Jones, A decision-tree approach to seasonal prediction of extreme precipitation in eastern China [J]. International Journal of Climatology, 2019, 1–18.
+
 (2) Wenguang Wei#, Zhongwei Yan*, P. D. Jones, Potential predictability of seasonal extreme precipitation accumulation in China [J]. Journal of Hydrometeorology, 2017, 18(4): 1071-1080.
+
 (3) Haifeng Su#, Zhe Xiong*, Xiaodong Yan, Xingang Dai, Wenguang Wei, Comparison of monthly rainfall generated from dynamical and statistical downscaling methods: a case study of the Heihe River Basin in China [J]. Theoretical and Applied Climatology, 2017, 129(1-2): 437-444.
+
 (4) Shengmei Yang#, Qiuwen Zhang*, Yongzhi Zhang, Wenguang Wei, Tingting Shi, A digital lightning prototype system: DLPS/HUST. International Journal of Digital Earth, 2013, 6(sup2): 155-171.
+
 (5) Shengmei Yang#, Qiuwen Zhang*, Yongzhi Zhang, Wenguang Wei, Research on the Lightning Information Management System Based on GIS. JSW, 2012, 7(8): 1897-1904.
 
 ## Contact
 
 Office: 511, 40th Building Hua Yan li, Institute of Atmospheric Physics,Chinese Academy of Sciences, Chao Yang District, P. O. Box 9804, Beijing, 100029, P. R. China
+
 Email: weiwg(at)tea(dot)ac(dot)cn
 
 Updated on 1st April 2020
